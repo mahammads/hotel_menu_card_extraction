@@ -1,0 +1,12 @@
+
+fastapi
+uvcorn
+PyPDF2
+pandas
+langdetect
+pdf2image
+PyPDF2
+boto3
+pytesseract
+textract-trp
+requests
